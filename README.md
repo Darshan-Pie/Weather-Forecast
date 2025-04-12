@@ -96,8 +96,9 @@ If data appears stuck: Check that the Google Sheet has the latest entries. SupaB
 ✅ Achievements
 •	- Built a working weather forecasting system
 •	- Real-time predictions every 10s
-•	- Visualized seamlessly on SupaBoard
+•	- Visualized seamlessly on SupaBoard(https://app.supaboard.ai/dashboard/finaldashboard)
 •	- Integrated with Supabase + Google Sheets
+   - Google Sheet(https://docs.google.com/spreadsheets/d/1gswCQPle1BrD0NY2VspkwuwJHv6-gTrEcTCi84QX3Q0/edit?gid=0#gid=0)
 
 ---
 
