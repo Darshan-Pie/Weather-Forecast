@@ -38,7 +38,7 @@ For a selected location, the following features are predicted:
 
 ⚙️ Tech Stack
 
-•	- **Backend:** Python
+•	- **Backend:** Python (Jupyter Notebook)
 •	- **Machine Learning:** Scikit-learn
 •	- **Database:** Supabase (PostgreSQL backend)
 •	- **Dashboard:** SupaBoard
